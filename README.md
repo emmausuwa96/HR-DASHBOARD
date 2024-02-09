@@ -1,4 +1,4 @@
-I Worked on an HR Dataset from kaggle, Microsoft Excel and Microsoft SQL Sever was used for data cleaning and preprocessing and Microsoft Power Bi for Visualization. In this HR performance Analysis report i provided insights like:
+I Worked on an HR Dataset from kaggle, Microsoft Excel and Microsoft SQL Sever was used for data cleaning and preprocessing and Microsoft Power Bi for Visualization. In this HR performance Analysis Dashboard i provided insights like:
 
 - Jobs satisfaction rating,
 - Number of employees by age group.
